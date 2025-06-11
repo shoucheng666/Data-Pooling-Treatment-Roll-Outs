@@ -15,3 +15,7 @@ The experiments on synthetic data are located in the Synthetic Experiments folde
 # Criteo.ipynb
 The Criteo dataset can be accessed via the link. (https://ailab.criteo.com/criteo-uplift-prediction-dataset/).
 The notebook provides a detailed walkthrough on how to use the dataset to validate our method.
+
+# Expedia.ipynb
+The Expedia dataset can be accessed via the link. (www.kaggle.com/c/expedia-personalized-sort/data).
+The notebook provides a detailed walkthrough on how to use the dataset to validate our method.
