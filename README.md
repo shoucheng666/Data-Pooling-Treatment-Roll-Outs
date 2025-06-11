@@ -11,3 +11,7 @@ The experiments on synthetic data are located in the Synthetic Experiments folde
 4. **Scenario 3.ipynb**: This notebook contains the validation code for Scenario 3, which assumes a linear specification and overlapping experiments.
 5. **Scenario 4.ipynb**: This notebook contains the validation code for Scenario 4, which assumes a non-linear specification and overlapping experiments.
 6. **Scenario 5.ipynb**: This notebook contains the validation code for Scenario 5, where the underlying policy ATEs are assumed to be non-linear, to evaluate the robustness of our method.
+
+# Criteo.ipynb
+The Criteo dataset can be accessed via the link. [https://ailab.criteo.com/criteo-uplift-prediction-dataset/].
+The notebook provides a detailed walkthrough on how to use the dataset to validate our method.
