@@ -30,3 +30,6 @@ The notebook provides a detailed walkthrough on how to use the dataset to valida
 # Expedia.ipynb
 The Expedia dataset can be accessed via the link. (www.kaggle.com/c/expedia-personalized-sort/data).
 The notebook provides a detailed walkthrough on how to use the dataset to validate our method.
+
+# MS paper replication
+This folder contains two files: a PDF report detailing the replication results for each Management Science paper, and a file explaining how to access the corresponding data and code.
